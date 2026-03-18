@@ -1,3 +1,7 @@
+# Deprecated / Unmaintained
+This project is no longer actively maintained. It may still work, but use it at your own risk.
+Please consider forking it if you need continued support.
+
 # gulp-find 
 [![Codacy Badge](https://api.codacy.com/project/badge/grade/32d3a1bc4bb34b3891efca49834c6adc)](https://www.codacy.com/app/se-panfilov/gulp-find)
 [![bitHound Overall Score](https://www.bithound.io/github/se-panfilov/gulp-find/badges/score.svg)](https://www.bithound.io/github/se-panfilov/gulp-find)
